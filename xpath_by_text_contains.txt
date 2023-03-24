@@ -1,0 +1,11 @@
+//div[text()='Mobiles & Tablets']
+
+//div[text()='Electronics']
+
+//div[text()='TVs & Appliances']
+
+//div[contains(text(),'Login ')] 
+
+//nobr[contains(text(),'actiTIME 2020 Online')]
+
+//img[contains(@alt,'TVs & Appliances')]
