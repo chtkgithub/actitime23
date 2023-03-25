@@ -6,9 +6,15 @@ public class
 public Static void main(String [] args);
 {
     system.out.println("waff");
+    
+    
 
 }
 
+ public void add(int a, int b)
+ {
+   System.out.println(a+b);
+ }
 
 
 }
