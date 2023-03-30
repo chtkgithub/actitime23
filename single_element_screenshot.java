@@ -42,6 +42,14 @@ public class single_element_screenshot {
 	File destfile = new File("./webpage/screenshot1"+timestamp+".png");
 	
 	  FileUtils.copyFile(temfile, destfile); 
+		
+	/*	WebElement button = driver.findElement(By.xpath("//h2[text()='Contact Us']"));
+		
+	File temfile = button.getScreenshotAs(OutputType.FILE);
+	
+	File destfile = new File("./webpage/screenshot1"+timestamp+".png");
+	
+	  FileUtils.copyFile(temfile, destfile); 	*/
 	  
 		
 		
